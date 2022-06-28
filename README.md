@@ -1,1 +1,1 @@
-net6
+net6 + dapper
